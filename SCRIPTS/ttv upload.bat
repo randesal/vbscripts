@@ -1,0 +1,1 @@
+robocopy "C:\Tmp\OUTPUT" "\\192.168.1.7\Nasserver_CERDATA\TTV\NEW" "*.xls" /maxage:162 /mon:1 /purge /s

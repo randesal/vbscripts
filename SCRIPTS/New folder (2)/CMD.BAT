@@ -1,0 +1,2 @@
+DIR \\192.168.1.11\Hscope\entry\TONGHSING-BOT /A:D /O /B >> 1.TXT
+DIR \\192.168.1.11\Hscope\entry\TONGHSING-TOP /A:D /O /B >> 1.TXT
